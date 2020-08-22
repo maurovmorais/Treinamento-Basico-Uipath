@@ -1724,9 +1724,9 @@
     "restore": {
       "projectUniqueName": "OlaMundo",
       "projectName": "OlaMundo",
-      "projectPath": "C:\\Users\\Mauro_Morais\\Documents\\UiPath\\OlaMundo\\.local",
+      "projectPath": "C:\\Users\\Mauro_Morais\\Documents\\UiPath\\Material_Treinamento\\Treinamento-Basico-Uipath\\Projetos\\OlaMundo\\.local",
       "packagesPath": "C:\\Users\\Mauro_Morais\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mauro_Morais\\Documents\\UiPath\\OlaMundo\\.local"
+      "outputPath": "C:\\Users\\Mauro_Morais\\Documents\\UiPath\\Material_Treinamento\\Treinamento-Basico-Uipath\\Projetos\\OlaMundo\\.local"
     },
     "frameworks": {
       "net461": {
